@@ -1,6 +1,6 @@
-## EventManagementAPI
+# EventManagementAPI
 
-# Introduction: 
+## Introduction: 
 
 This is a basic REST API which allows the user to handle and manipulate events. This can be deployed with a frontend to fetch records, create new users and events, list the events, waitlists for an event,etc... </br>
 It has seven routes:  </br>
@@ -12,7 +12,7 @@ It has seven routes:  </br>
 6. Attend Event (for a logged in user).  </br>
 7. Get Attendees of an event.  </br>
 
-# Setup Instructions:  </br>
+## Setup Instructions:  </br>
 
 1. Clone this repository on your system.  </br>
 2. Check out the package.json file and first install node and run npm install from the command line.This will install the dependencies.  </br>
@@ -20,4 +20,4 @@ It has seven routes:  </br>
 
 The best way to test this is using Postman and making API calls while going through the documentation.
 
-# Basic Documentation:
+## Basic Documentation:
