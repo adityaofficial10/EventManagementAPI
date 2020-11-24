@@ -1,5 +1,5 @@
-const ACCESS_KEY = "AKIAIEN43Z6XATRBBSVA";
-const SECRET_ACCESS_KEY = "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";
+const ACCESS_KEY = "";
+const SECRET_ACCESS_KEY = "";
 const BUCKET_NAME = "myimagesocto";
 
 module.exports = {
