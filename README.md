@@ -12,11 +12,11 @@ It has seven routes:  </br>
 6. Attend Event (for a logged in user).  </br>
 7. Get Attendees of an event.  </br>
 
-#Setup Instructions:  </br>
+# Setup Instructions:  </br>
 
-1.Clone this repository on your system.  </br>
-2.Check out the package.json file and first install node and run npm install from the command line.This will install the dependencies.  </br>
-3.Run npm start from the command line and server starts on the port 3000.(If you want to change this, create a dot.env file and create a variable PORT and assign it the value. </br>
+1. Clone this repository on your system.  </br>
+2. Check out the package.json file and first install node and run npm install from the command line.This will install the dependencies.  </br>
+3. Run npm start from the command line and server starts on the port 3000.(If you want to change this, create a dot.env file and create a variable PORT and assign it the value. </br>
 
 The best way to test this is using Postman and making API calls while going through the documentation.
 
